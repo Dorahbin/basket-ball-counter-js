@@ -18,6 +18,7 @@ main {
   height: 5rem;
   text-align: center;
   margin: auto;
+  cursor: pointer;
 }
 
 .score-btn {
@@ -30,6 +31,6 @@ main {
   margin: auto;
 }
 
-.new-game{
+.new-game {
   background-color: lightgreen;
 }
